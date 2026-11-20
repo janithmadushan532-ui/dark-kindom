@@ -1,0 +1,6 @@
+{
+  "name": "Cute World Adventure",
+  "description": "A 3D cute endless runner adventure across six pastel worlds on a futuristic hoverboard with four collectible power-ups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
